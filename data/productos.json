@@ -1,0 +1,2 @@
+[{"id":2,"title":"Pantalon","description":"Pantalon vaquero","price":"30","thumbnail":"/path/to/thumbnail2.jpg","code":"P002","stock":"5"},
+{"id":3,"title":"Camiseta","description":"Caniseta de algodon","price":"20","thumbnail":"/path/to/thumbnail.jpg","code":"P001","stock":"10"}]
